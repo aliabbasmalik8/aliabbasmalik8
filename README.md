@@ -1,4 +1,4 @@
-Hi, I'm Ali Abbas Malik, 4+ years experienced full stack developer.I can handle web apps from gathering requirements and building the features for testing and deployments.
+Hi, I'm Ali Abbas Malik, 5 years experienced full stack developer.I can handle web apps from gathering requirements and building the features for testing and deployments.
 I have majorly worked in React JS, React Native, Node JS, Ruby On Rails. In databases, I have worked with Postgres, MySQL, and MongoDB.
 I have worked with Heroku, AWS (EC2, S3). I am also familiar with Google APIs and payment gateway integrations.
 
